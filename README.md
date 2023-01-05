@@ -1,4 +1,4 @@
-# kodluyoruz Ödev1 Repo
+# kodluyoruz GIT Ödev1 Repo
 Kodluyoruz Eğitimi kapsamında açtığım ödev1'e ait olan repo.
 
 ## Instalaion
